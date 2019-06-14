@@ -1,0 +1,11 @@
+{
+	"components": [
+		{
+			"type": "item",
+			"item": "minecraft:stone",
+			"framed": "true",
+			"link_recipe": "false"
+		}
+	]
+}
+

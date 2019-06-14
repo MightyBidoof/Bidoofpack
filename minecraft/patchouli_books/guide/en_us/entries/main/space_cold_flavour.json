@@ -1,0 +1,15 @@
+{
+"name": "Cold Planets",
+"icon": "minecraft:snow_layer",
+"category": "category_one",
+"pages": [
+{
+"type": "text",
+"text": "Freezing cold yet somewhat hospitable, these planets aren't exactly a place you'd like to call home as they lack a thick atmosphere. Covered with snow and some grass-like plants below, they're still quite barren compared to the lushness of Temperate Planets"
+},
+{
+"type": "text",
+"text": "Like any other planet, they host a trove of resources. Unlike other planets, the resources on these planets are possibily the most important ones that you can find, as some key components in creating exceptionally sturdy frames for machinery. The stone on the otherhand is near-useless, although it can be processed into a decent bit of sand"
+}
+]
+}

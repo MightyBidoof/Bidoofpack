@@ -1,0 +1,41 @@
+{
+"name": "Botania Tweaks",
+"icon": "botania:specialflower{type:shulk_me_not}",
+"category": "category_one",
+"pages": [
+{
+"type": "text",
+"text": "This entry documents tweaks to Botania."
+},
+{
+"type": "spotlight",
+"title": "Entropynnium",
+"item": "botania:specialflower{type:entropinnyum}",
+"text": "The Entropynnium can now be automated without other mods, as the gravel-to-flint recipe has been reduced in cost, which in turn allows for a positive mana return."
+},
+{
+"type": "spotlight",
+"title": "Spectrolus",
+"item": "botania:specialflower{type:spectrolus}",
+"text": "This flower has been heavily buffed, as it now requires little more than 5 stacks of wool to fill a mana pool rather than the default double chests' worth of wool."
+},
+{
+"type": "spotlight",
+"title": "Mana Fluxfield",
+"item": "botania:rfgenerator",
+"text": "The RF output of the Mana Fluxfield has been doubled$(br)(3200 RF per packet rather than 1600 RF)."
+},
+{
+"type": "spotlight",
+"title": "Crafty Crate",
+"item": "botania:opencrate:1",
+"text": "The Crafty Crate now requires a small amount of mana everytime it crafts an item, and will retain the currently held items until it receives enough mana to craft something."
+},
+{
+"type": "spotlight",
+"title": "Ender Air",
+"item": "botania:manaresource:15",
+"text": "Ender Air is now automatable, as Dispensers in the End can now fill empty bottles when activated."
+}
+]
+}

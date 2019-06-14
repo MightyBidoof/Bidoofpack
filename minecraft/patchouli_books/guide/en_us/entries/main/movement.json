@@ -1,0 +1,16 @@
+{
+"name": "Keeping Safe",
+"icon": "botania:tornadorod",
+"category": "category_one",
+"pages": [ 
+{
+"type": "text",
+"text": "Vertical mobility is quite important to keep safe, as having water all around your base is impractical.$(br)The combo featured in the entry is simple and allows you to easily traverse any void you need to.$(br2)Simply use the Rod Of The Skies, and then quickly switch to and use the Hang Glider. Repeat until you're as high as you want/need to be."
+},
+{
+"type": "crafting",
+"recipe": "openglider:glider_basic",
+"recipe2": "botania:tornadorod"
+}
+]
+}
