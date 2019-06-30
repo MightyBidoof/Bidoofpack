@@ -1,0 +1,10 @@
+{
+	"components": [
+		{
+			"type": "item",
+			"item": "minecraft:iron_sword",
+			"framed": "true",
+			"link_recipe": "false"
+		}
+	]
+} 

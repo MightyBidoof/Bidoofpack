@@ -1,0 +1,158 @@
+{
+	"priority": 10,
+	"populate": {
+		"iridium": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "thermalfoundation:ore",
+					"properties": {
+						"type": "iridium"
+					}
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 8
+				},
+				"cluster-count": 8,
+				"min-height": 0,
+				"max-height": 60,
+				"biome": "all",
+				"dimension": {
+				"restriction": "whitelist",
+				"value":
+				[
+ 					9,
+ 					16,
+ 					24,
+ 					25,
+ 					27,
+ 					29,
+ 					31,
+ 					34,
+ 					38,
+ 					42,
+ 					50,
+ 					55,
+ 					58,
+ 					63,
+ 					66,
+ 					76
+ 				]
+				}
+			},
+		"platinum": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "thermalfoundation:ore",
+					"properties": {
+						"type": "platinum"
+					}
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 8
+				},
+				"cluster-count": 8,
+				"min-height": 0,
+				"max-height": 60,
+				"biome": "all",
+				"dimension": {
+				"restriction": "whitelist",
+				"value":
+				[
+ 					9,
+ 					16,
+ 					24,
+ 					25,
+ 					27,
+ 					29,
+ 					31,
+ 					34,
+ 					38,
+ 					42,
+ 					50,
+ 					55,
+ 					58,
+ 					63,
+ 					66,
+ 					76
+ 				]
+				}
+			},
+		"galena": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "techreborn:ore",
+					}
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 8
+				},
+				"cluster-count": 8,
+				"min-height": 0,
+				"max-height": 60,
+				"biome": "all",
+				"dimension": {
+				"restriction": "whitelist",
+				"value":
+				[
+ 					9,
+ 					16,
+ 					24,
+ 					25,
+ 					27,
+ 					29,
+ 					31,
+ 					34,
+ 					38,
+ 					42,
+ 					50,
+ 					55,
+ 					58,
+ 					63,
+ 					66,
+ 					76
+ 				]
+				}
+				},
+		"redstoneclathrate": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "thermalfoundation:ore_fluid",
+					"properties": {
+						"type": "redstone"
+					}
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 8
+				},
+				"cluster-count": 8,
+				"min-height": 0,
+				"max-height": 60,
+				"biome": "all",
+				"dimension": {
+				"restriction": "whitelist",
+				"value":
+				[
+ 					9,
+ 					16,
+ 					24,
+ 					25,
+ 					27,
+ 					29,
+ 					31,
+ 					34,
+ 					38,
+ 					42,
+ 					50,
+ 					55,
+ 					58,
+ 					63,
+ 					66,
+ 					76
+ 				]
+				}
+				}
+			}

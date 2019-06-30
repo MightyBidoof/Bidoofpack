@@ -1,0 +1,16 @@
+{
+"name": "Odd Recipes",
+"icon": "minecraft:spawn_egg{EntityTag:{id:'minecraft:llama'}}",
+"category": "category_one",
+"pages": [ 
+{
+"type": "text",
+"text": "$(t:Most of these recipes can be viewed in JEI)In this pack there exists a subset of unexpected recipes for one reason or another, and this page exists to shine light on those few recipes."
+},
+{
+"type": "spotlight",
+"item": "minecraft:spawn_egg{EntityTag:{id:'minecraft:llama'}}",
+"text": "This first recipe exists solely due to Thaumcraft requiring a Llama to spit on the player in order to progress in the Auromancy research tree, nothing more, nothing less."
+}
+]
+}

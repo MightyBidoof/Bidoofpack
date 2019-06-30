@@ -1,0 +1,58 @@
+{
+  "name": "bidoofpack:combo_core",
+  "target-item": "extendedcrafting:crafting_core",
+  "target-meta": 0,
+  "target-count": 1,
+
+  "duration": 600,
+
+  "catalyst": "actuallyadditions:block_empowerer",
+
+  "input-types": {
+    "b": { "id": "extendedcrafting:storage"},
+    "t": { "id": "extendedcrafting:trimmed","meta": 2},
+    "e": { "id": "extendedcrafting:storage","meta": 5},
+    "a": { "id": "actuallyadditions:block_crystal_empowered","meta": 2},
+    "d": { "id": "embers:block_dawnstone"},
+    "v": { "id": "enderio:block_alloy_endergy","meta": 6}
+  },
+
+  "symmetrical": true,
+  "shape": [
+    [
+      ["b","b","b","b","b"],
+      ["b","v","v","v","b"],
+      ["b","v","v","v","b"],
+      ["b","v","v","v","b"],
+      ["b","b","b","b","b"]
+    ],
+    [
+      ["t","t","t","t","t"],
+      ["t","d","a","d","t"],
+      ["t","a","e","a","t"],
+      ["t","d","a","d","t"],
+      ["t","t","t","t","t"]
+    ],
+    [
+      ["b","b","b","b","b"],
+      ["b","a","d","a","b"],
+      ["b","d","e","d","b"],
+      ["b","a","d","a","b"],
+      ["b","b","b","b","b"]
+    ],
+    [
+      ["t","t","t","t","t"],
+      ["t","d","a","d","t"],
+      ["t","a","e","a","t"],
+      ["t","d","a","d","t"],
+      ["t","t","t","t","t"]
+    ],
+    [
+      ["b","b","b","b","b"],
+      ["b","b","b","b","b"],
+      ["b","b","b","b","b"],
+      ["b","b","b","b","b"],
+      ["b","b","b","b","b"]
+    ]
+  ]
+}

@@ -1,0 +1,2 @@
+//Empty Resonant Cell Frame 
+mods.extendedcrafting.CombinationCrafting.addRecipe(<thermalexpansion:frame:132>, 2000000, 20000, <thermalexpansion:frame:147>, [<ore:plateTungstensteel>, <avaritia:resource:2>, <ore:plateTungstensteel>, <ore:plateTungstensteel>, <contenttweaker:ingot_two>, <ore:plateTungstensteel>, <ore:plateTungstensteel>, <avaritia:resource:2>, <ore:plateTungstensteel>, <ore:plateTungstensteel>, <contenttweaker:ingot_two> ,<ore:plateTungstensteel>]);

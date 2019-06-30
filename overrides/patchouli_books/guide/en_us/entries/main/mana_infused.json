@@ -1,0 +1,38 @@
+{
+"name": "Mana Infused Ingots",
+"icon": "thermalfoundation:material:1028",
+"category": "category_one",
+"pages": [
+{
+"type": "text",
+"text": "These two materials are created via a Terrestrial Agglomeration Plate variant, similar to how your first Floating Crystal was made."
+},
+{
+"type": "multiblock",
+"multiblock": {
+"mapping": {
+"B": "quark:biotite_block[variant=default]",
+"S": "jaopca:block_blockdimensionalshard",
+"P": "botania:terraplate",
+"0": "advancedrocketry:metal0[varient=1]"
+},
+"pattern": [
+["   "," P ","   "],
+["SBS","B0B","SBS"]
+]
+}
+},
+{
+"type": "spotlight",
+"title": "Mana Infused Ingot",
+"item": "thermalfoundation:material:136",
+"text": "Costs: $(br)$(li)1 Starmetal Ingot$(li)1 Void Metal Ingot$(li)1 Elementium Ingot$(li)1 Psimetal Ingot$(li)1 Dawnstone Ingot$(br2)Mana: One whole pool"
+},
+{
+"type": "spotlight",
+"title": "Mana Dust",
+"item": "thermalfoundation:material:1028",
+"text": "Costs: $(br)$(li)Stardust$(li)Skystone Dust$(li)Mana Powder$(li)Psidust$(li)Ember Grit$(br2)Mana: One whole pool"
+} 
+]
+}
