@@ -1,0 +1,205 @@
+{
+	"priority": 10,
+	"populate": {
+		"prosshard": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "mysticalagriculture:prosperity_ore",
+					"properties": {
+						"metadata": 0
+					}
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 8
+				},
+				"cluster-count": 8,
+				"min-height": 0,
+				"max-height": 77,
+				"biome": "all",
+				"dimension": {
+				"restriction": "whitelist",
+				"value":
+				[
+ 					5,
+ 					15,
+ 					21,
+ 					26,
+ 					33,
+ 					47,
+ 					49,
+ 					54,
+ 					57,
+ 					75
+					]
+				
+				}
+			},
+		"dimshard": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "rftools:dimensional_shard_ore",
+					"properties": {
+						"metadata": 0
+					}
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 8
+				},
+				"cluster-count": 8,
+				"min-height": 0,
+				"max-height": 77,
+				"biome": "all",
+				"dimension": {
+				"restriction": "whitelist",
+				"value": [
+ 					5,
+ 					15,
+ 					21,
+ 					26,
+ 					33,
+ 					47,
+ 					49,
+ 					54,
+ 					57,
+ 					75
+					]
+				}
+				}
+			},
+		"glowstoneclathrate": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "thermalfoundation:ore_fluid",
+					"properties": {
+						"type": "glowstone"
+					}
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 8
+				},
+				"cluster-count": 8,
+				"min-height": 0,
+				"max-height": 60,
+				"biome": "all",
+				"dimension": {
+				"restriction": "whitelist",
+				"value": [
+ 					5,
+ 					15,
+ 					21,
+ 					26,
+ 					33,
+ 					47,
+ 					49,
+ 					54,
+ 					57,
+ 					75
+				]
+				}
+			},
+		"pyrite": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "techreborn:ore",
+					"properties": {
+						"metadata": 7
+					}
+				},
+				"material": "minecraft:netherrack",
+				"cluster-size": 8
+				},
+				"cluster-count": 8,
+				"min-height": 0,
+				"max-height": 77,
+				"biome": "all",
+				"dimension": {
+				"restriction": "whitelist",
+				"value":
+				[
+ 					5,
+ 					15,
+ 					21,
+ 					26,
+ 					33,
+ 					47,
+ 					49,
+ 					54,
+ 					57,
+ 					75
+					]
+				
+				}
+			},
+		"cinnabar_nether": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "techreborn:ore",
+					"properties": {
+						"metadata": 6
+					}
+				},
+				"material": "minecraft:netherrack",
+				"cluster-size": 8
+				},
+				"cluster-count": 8,
+				"min-height": 0,
+				"max-height": 77,
+				"biome": "all",
+				"dimension": {
+				"restriction": "whitelist",
+				"value":
+				[
+ 					5,
+ 					15,
+ 					21,
+ 					26,
+ 					33,
+ 					47,
+ 					49,
+ 					54,
+ 					57,
+ 					75
+					]
+				
+				}
+			},
+		"sphalerite": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "techreborn:ore",
+					"properties": {
+						"metadata": 0
+					}
+				},
+				"material": "minecraft:netherrack",
+				"cluster-size": 8
+				},
+				"cluster-count": 8,
+				"min-height": 0,
+				"max-height": 77,
+				"biome": "all",
+				"dimension": {
+				"restriction": "whitelist",
+				"value":
+				[
+ 					5,
+ 					15,
+ 					21,
+ 					26,
+ 					33,
+ 					47,
+ 					49,
+ 					54,
+ 					57,
+ 					75
+					]
+				
+				}
+			}
+}

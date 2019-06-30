@@ -1,0 +1,3 @@
+//Many people think they can outsmart me... Maybe, maybe... but I am yet to find somebody who can outsmart boolet...
+//(Adds Bullet Casings)
+mods.immersiveengineering.MetalPress.addRecipe(<immersiveengineering:bullet> * 2, <thaumcraft:ingot:2>, <immersiveengineering:mold:3>, 8096);

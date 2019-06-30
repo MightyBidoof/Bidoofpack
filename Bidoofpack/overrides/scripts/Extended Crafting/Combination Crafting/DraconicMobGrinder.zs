@@ -1,0 +1,2 @@
+//Draconic Evolution Mob Grinder 
+mods.extendedcrafting.CombinationCrafting.addRecipe(<draconicevolution:grinder>, 5000000, 25000, <mob_grinding_utils:saw>, [<thermalexpansion:frame:147>, <ore:blockNetherStar>, <mysticalagriculture:supremium_axe>, <ore:blockInsaniumEssence>, <ore:plateTitaniumIridium>, <ore:plateTitaniumIridium>, <ore:plateTitaniumIridium>, <ore:plateTitaniumIridium>, <mysticalagriculture:supremium_sword>, <ore:blockTitaniumAluminide>]);

@@ -1,0 +1,117 @@
+<!-->
+	<Recipe timeRequired="NUMBER" power="NUMBER">
+		<input>
+			<fluidStack>FLUID NAME SIZE</fluidStack>
+			<itemStack>ITEM_NAME SIZE META</itemStack>
+			<oreDict>OREDICT_NAME SIZE</oreDict>
+        </input>
+		<output>
+			<fluidStack>FLUID_NAME SIZE</fluidStack>
+			<itemStack>ITEM_NAME SIZE META</itemStack>
+			<oreDict>OREDICT_NAME SIZE</oreDict>
+		</output>
+	</Recipe>
+	
+	Can have Multiple In/Outputs
+	Some Machines can only Accept either Fluids or Items
+	
+	timeRequired="NUMBER"	how long a Recipe takes, Unit is in Ticks.
+	power="NUMBER" how much Power the Recipes takes per Tick. Unit is in RF.
+	
+	The "useDefault" attribute will prevent loading of recipes if set to "false"
+<!-->
+<Recipes useDefault="false">
+	<Recipe timeRequired="100" power ="120">
+		<input>
+			<oreDict>ingotAluminium 7</oreDict>
+			<oreDict>ingotTitanium 3</oreDict>
+		</input>
+		<output>
+			<itemStack>advancedrocketry:productingot 3</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="120">
+		<input>
+			<oreDict>dustCoal</oreDict>
+			<oreDict>ingotIron</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:material 1 160</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="40">
+		<input>
+			<itemStack>minecraft:sand</itemStack>
+		</input>
+		<output>
+			<itemStack>libvulpes:productingot 1 3</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="20">
+		<input>
+			<oreDict>ingotIridium</oreDict>
+			<oreDict>ingotTitanium</oreDict>
+		</input>
+		<output>
+			<itemStack>advancedrocketry:productingot 2 1</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="240">
+		<input>
+			<itemStack>extendedcrafting:material 1 40</itemStack>
+			<itemStack>extendedcrafting:material 2 36</itemStack>
+			<oreDict>gemEnderBiotite 4</oreDict>
+		</input>
+		<output>
+			<itemStack>extendedcrafting:material 4 48</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="240">
+		<input>
+			<itemStack>quark:soul_powder</itemStack>
+			<oreDict>dustSoularium</oreDict>
+			<itemStack>mysticalagriculture:crafting 2 28</itemStack>
+		</input>
+		<output>
+			<itemStack>mysticalagriculture:crafting 4 29</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="240">
+		<input>
+			<oreDict>ingotBaseEssence</oreDict>
+			<itemStack>mysticalagriculture:crafting 2 29</itemStack>
+		</input>
+		<output>
+			<itemStack>mysticalagriculture:crafting 1 38</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="240">
+		<input>
+			<oreDict>gemHephaestite 4</oreDict>
+			<oreDict>ingotUmbrium 2</oreDict>
+			<oreDict>essenceDestroyer 4</oreDict>
+		</input>
+		<output>
+			<itemStack>defiledlands:ravaging_ingot 2</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="240">
+		<input>
+			<oreDict>ingotTungsten</oreDict>
+			<oreDict>ingotSteel</oreDict>
+		</input>
+		<output>
+			<itemStack>techreborn:ingot 2 16</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="240">
+		<input>
+			<oreDict>gemDimensionalShard 4</oreDict>
+			<oreDict>ingotCrystallineAlloy 3</oreDict>
+			<oreDict>itemPrecientPowder 4</oreDict>
+		</input>
+		<output>
+			<itemStack>extendedcrafting:material 6 24</itemStack>
+		</output>
+	</Recipe>
+</Recipes>

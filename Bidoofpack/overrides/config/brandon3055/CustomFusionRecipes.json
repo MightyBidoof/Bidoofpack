@@ -1,0 +1,535 @@
+[
+    {
+        "mode": "ADD",
+        "result": "actuallyadditions:block_crystal_empowered",
+        "catalyst": "actuallyadditions:block_crystal",
+        "energy": 250000,
+        "tier": 0,
+        "ingredients": [
+        "ore:alloyAdvanced",
+        "ore:gemRhodochrosite",
+        "ore:ingotRedstoneAlloy",
+        "ore:dustRuby" 
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "actuallyadditions:block_crystal_empowered,1,1",
+        "catalyst": "actuallyadditions:block_crystal,1,1",
+        "energy": 250000,
+        "tier": 0,
+        "ingredients": [
+        "ore:ingotHardCarbon",
+        "ore:gemSapphire",
+        "ore:dustAstralStarmetal",
+        "ore:itemPulsatingCrystal"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "actuallyadditions:block_crystal_empowered,1,2",
+        "catalyst": "actuallyadditions:block_crystal,1,2",
+        "energy": 250000,
+        "tier": 0,
+        "ingredients": [
+        "ore:manaDiamond",
+        "ore:gemAquamarine",
+        "integrateddynamics:crystalized_menril_chunk",
+        "ore:gemPrismarine"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "actuallyadditions:block_crystal_empowered,1,3",
+        "catalyst": "actuallyadditions:block_crystal,1,3",
+        "energy": 250000,
+        "tier": 0,
+        "ingredients": [
+        "ore:ingotDarkSteel",
+        "ore:dustBedrock",
+        "ore:ingotThorium232",
+        "ore:bEnderAirBottle"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "actuallyadditions:block_crystal_empowered,1,4",
+        "catalyst": "actuallyadditions:block_crystal,1,4",
+        "energy": 250000,
+        "tier": 0,
+        "ingredients": [
+        "ore:nuggetUranium235Oxide",
+        "botania:elfglass",
+        "ore:essenceInferium",
+        "ore:itemVibrantCrystal"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "actuallyadditions:block_crystal_empowered,1,5",
+        "catalyst": "actuallyadditions:block_crystal,1,5",
+        "energy": 250000,
+        "tier": 0,
+        "ingredients": [
+        "ore:stoneMarble",
+        "ore:crystalPureNetherQuartz",
+        "ore:dustNiter",
+        "ore:ingotLithium6"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "extendedcrafting:material,1,32",
+        "catalyst": "avaritia:resource,1,4",
+        "energy": 1250000,
+        "tier": 3,
+        "ingredients": [
+        "ore:ingotAether",
+        "ore:ingotStellarAlloy",
+        "ore:ingotDraconiumAwakened",
+        "ore:gaiaIngot",
+        "ore:ingotRavaging",
+        "contenttweaker:ingot_two",
+        "extendedcrafting:material,1,48",
+        "ore:ingotDawnstone"
+        ]
+    },
+ {
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_helm",
+        "catalyst": "enderio:item_stellar_alloy_helmet",
+        "energy": 1000000,
+        "tier": 0,
+        "ingredients": [
+            "thaumcraft:void_robe_helm",
+            "botania:terrasteelhelm",
+            "redstonearsenal:armor.helmet_flux",
+            "embers:ashen_cloak_head",
+            "ore:blockDraconium",
+            "ore:blockDraconium",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_chest",
+        "catalyst": "enderio:item_stellar_alloy_chestplate",
+        "energy": 1000000,
+        "tier": 0,
+        "ingredients": [
+            "thaumcraft:void_robe_chest",
+            "botania:terrasteelchest",
+            "redstonearsenal:armor.plate_flux",
+            "embers:ashen_cloak_chest",
+            "ore:blockDraconium",
+            "ore:blockDraconium",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_legs",
+        "catalyst": "enderio:item_stellar_alloy_leggings",
+        "energy": 1000000,
+        "tier": 0,
+        "ingredients": [
+            "thaumcraft:void_robe_legs",
+            "botania:terrasteellegs",
+            "redstonearsenal:armor.legs_flux",
+            "embers:ashen_cloak_legs",
+            "ore:blockDraconium",
+            "ore:blockDraconium",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_boots",
+        "catalyst": "enderio:item_stellar_alloy_boots",
+        "energy": 1000000,
+        "tier": 0,
+        "ingredients": [
+            "thaumcraft:traveller_boots",
+            "botania:terrasteelboots",
+            "redstonearsenal:armor.boots_flux",
+            "embers:ashen_cloak_boots",
+            "ore:blockDraconium",
+            "ore:blockDraconium",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_bow",
+        "catalyst": "botania:crystalbow",
+        "energy": 1000000,
+        "tier": 0,
+        "ingredients": [
+            "ore:aetherBow",
+            "extrautils2:compoundbow",
+            "mekanism:electricbow",
+            "mysticalagriculture:supremium_bow",
+            "redstonearsenal:tool.bow_flux",
+            "ore:blockDraconium",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_pick",
+        "catalyst": "thaumcraft:void_pick",
+        "energy": 1000000,
+        "tier": 0,
+        "ingredients": [
+            "ore:aetherPick",
+            "psi:psimetal_pickaxe",
+            "redstonearsenal:tool.pickaxe_flux",
+            "thaumcraft:elemental_pick",
+            "astralsorcery:itemchargedcrystalpickaxe",
+            "ore:blockDraconium",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_axe",
+        "catalyst": "thaumcraft:void_axe",
+        "energy": 1000000,
+        "tier": 0,
+        "ingredients": [
+            "ore:aetherAxe",
+            "psi:psimetal_axe",
+            "redstonearsenal:tool.axe_flux",
+            "thaumcraft:elemental_axe",
+            "astralsorcery:itemchargedcrystalaxe",
+            "ore:blockDraconium",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_shovel",
+        "catalyst": "thaumcraft:void_shovel",
+        "energy": 1000000,
+        "tier": 0,
+        "ingredients": [
+            "ore:aetherShovel",
+            "psi:psimetal_shovel",
+            "redstonearsenal:tool.shovel_flux",
+            "thaumcraft:elemental_shovel",
+            "astralsorcery:itemchargedcrystalshovel",
+            "ore:blockDraconium",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_energy_core"
+        ]
+    },
+{
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_sword",
+        "catalyst": "thaumcraft:crimson_blade",
+        "energy": 1000000,
+        "tier": 0,
+        "ingredients": [
+            "botania:starsword",
+            "psi:psimetal_sword",
+            "redstonearsenal:tool.sword_flux",
+            "thaumcraft:elemental_sword",
+            "astralsorcery:itemchargedcrystalsword",
+            "ore:blockDraconium",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "thermalexpansion:frame,1,148",
+        "catalyst": "thermalexpansion:frame,1,132",
+        "energy": 1000000,
+        "tier": 3,
+        "ingredients": [
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "ore:nuggetUltimate",
+            "ore:nuggetUltimate",
+            "projecte:matter_block,1,1",
+            "projecte:matter_block,1,1",
+            "ore:nuggetUltimate",
+            "ore:nuggetUltimate",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:reactor_core",
+        "catalyst": "nuclearcraft:fusion_core",
+        "energy": 44800000,
+        "tier": 3,
+        "ingredients": [  
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "extendedcrafting:material,1,13",
+            "extendedcrafting:material,1,13",
+            "draconicevolution:chaotic_core",
+            "thermalexpansion:frame,1,148",
+            "extendedcrafting:material,1,13",
+            "extendedcrafting:material,1,13",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_helm",
+        "catalyst": "draconicevolution:wyvern_helm",
+        "energy": 256000,
+        "tier": 2,
+        "ingredients": [
+        "ore:ingotDraconiumAwakened",
+        "ore:ingotDraconiumAwakened",
+        "projecte:item.pe_rm_armor_3",
+        "draconicevolution:awakened_core",
+        "draconicevolution:draconic_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_chest",
+        "catalyst": "draconicevolution:wyvern_chest",
+        "energy": 256000,
+        "tier": 2,
+        "ingredients": [
+        "ore:ingotDraconiumAwakened",
+        "ore:ingotDraconiumAwakened",
+        "botania:flighttiara",
+        "projecte:item.pe_rm_armor_2",
+        "draconicevolution:awakened_core",
+        "draconicevolution:draconic_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_legs",
+        "catalyst": "draconicevolution:wyvern_legs",
+        "energy": 256000,
+        "tier": 2,
+        "ingredients": [
+        "ore:ingotDraconiumAwakened",
+        "ore:ingotDraconiumAwakened",
+        "projecte:item.pe_rm_armor_1",
+        "draconicevolution:awakened_core",
+        "draconicevolution:draconic_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_boots",
+        "catalyst": "draconicevolution:wyvern_boots",
+        "energy": 256000,
+        "tier": 2,
+        "ingredients": [
+        "ore:ingotDraconiumAwakened",
+        "ore:ingotDraconiumAwakened",
+        "projecte:item.pe_rm_armor_0",
+        "draconicevolution:awakened_core",
+        "draconicevolution:draconic_energy_core"
+        ]
+    },
+    {
+    "mode": "ADD",
+    "result": "draconicevolution:draconic_sword",
+    "catalyst": "draconicevolution:wyvern_sword",
+    "energy": 10000,
+    "tier": 2,
+    "ingredients": [
+    "ore:ingotDraconiumAwakened",
+    "ore:ingotDraconiumAwakened",
+    "mysticalagriculture:supremium_sword",
+    "projecte:item.pe_rm_sword",
+    "draconicevolution:draconic_energy_core",
+    "draconicevolution:awakened_core"
+    ]
+    },
+        {
+    "mode": "ADD",
+    "result": "draconicevolution:draconic_pick",
+    "catalyst": "draconicevolution:wyvern_pick",
+    "energy": 10000,
+    "tier": 2,
+    "ingredients": [
+    "ore:ingotDraconiumAwakened",
+    "ore:ingotDraconiumAwakened",
+    "mysticalagriculture:supremium_pickaxe",
+    "projecte:item.pe_rm_pick",
+    "draconicevolution:draconic_energy_core",
+    "draconicevolution:awakened_core"
+    ]
+    },
+        {
+    "mode": "ADD",
+    "result": "draconicevolution:draconic_axe",
+    "catalyst": "draconicevolution:wyvern_axe",
+    "energy": 10000,
+    "tier": 2,
+    "ingredients": [
+    "ore:ingotDraconiumAwakened",
+    "ore:ingotDraconiumAwakened",
+    "mysticalagriculture:supremium_axe",
+    "projecte:item.pe_rm_axe",
+    "draconicevolution:draconic_energy_core",
+    "draconicevolution:awakened_core"
+    ]
+    },
+        {
+    "mode": "ADD",
+    "result": "draconicevolution:draconic_shovel",
+    "catalyst": "draconicevolution:wyvern_shovel",
+    "energy": 10000,
+    "tier": 2,
+    "ingredients": [
+    "ore:ingotDraconiumAwakened",
+    "ore:ingotDraconiumAwakened",
+    "mysticalagriculture:supremium_shovel",
+    "projecte:item.pe_rm_shovel",
+    "draconicevolution:draconic_energy_core",
+    "draconicevolution:awakened_core"
+    ]
+    },
+        {
+    "mode": "ADD",
+    "result": "draconicevolution:draconic_bow",
+    "catalyst": "draconicevolution:wyvern_bow",
+    "energy": 10000,
+    "tier": 2,
+    "ingredients": [
+    "ore:ingotDraconiumAwakened",
+    "ore:ingotDraconiumAwakened",
+    "mysticalagriculture:supremium_bow",
+    "embers:ignition_cannon",
+    "draconicevolution:draconic_energy_core",
+    "draconicevolution:awakened_core"
+    ]
+    },
+        {
+    "mode": "ADD",
+    "result": "draconicevolution:draconic_hoe",
+    "catalyst": "thaumcraft:elemental_hoe",
+    "energy": 10000,
+    "tier": 2,
+    "ingredients": [
+    "ore:ingotDraconiumAwakened",
+    "ore:ingotDraconiumAwakened",
+    "mysticalagriculture:supremium_sword",
+    "projecte:item.pe_rm_sword",
+    "draconicevolution:draconic_energy_core",
+    "draconicevolution:awakened_core"
+    ]
+    },
+        {
+    "mode": "ADD",
+    "result": "draconicevolution:draconic_staff_of_power",
+    "catalyst": "projecte:item.pe_rm_katar",
+    "energy": 16000,
+    "tier": 2,
+    "ingredients": [
+    "ore:ingotDraconiumAwakened",
+    "ore:ingotDraconiumAwakened",
+    "mysticalagradditions:supremium_paxel",
+    "projecte:item.pe_rm_morning_star",
+    "draconicevolution:draconic_pick",
+    "draconicevolution:draconic_axe",
+    "draconicevolution:draconic_shovel",
+    "draconicevolution:draconic_energy_core",
+    "draconicevolution:awakened_core"
+    ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:energy_storage_core",
+        "catalyst": "thermalexpansion:frame,1,132",
+        "energy": 1000000,
+        "tier": 1,
+        "ingredients": [
+        "draconicevolution:wyvern_core",
+        "draconicevolution:wyvern_core",
+        "ore:ingotCrystallinePinkSlime",
+        "ore:ingotCrystallinePinkSlime",
+        "ore:ingotThermoconducting",
+        "ore:ingotThermoconducting",
+        "ore:ingotCrystallinePinkSlime",
+        "ore:ingotCrystallinePinkSlime",
+        "draconicevolution:wyvern_core",
+        "draconicevolution:wyvern_core"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_helm",
+        "catalyst": "draconicevolution:wyvern_helm"
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_chest",
+        "catalyst": "draconicevolution:wyvern_chest"
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_legs",
+        "catalyst": "draconicevolution:wyvern_legs"
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_boots",
+        "catalyst": "draconicevolution:wyvern_boots"
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:reactor_core",
+        "catalyst": "draconicevolution:chaos_shard"
+        
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_sword",
+        "catalyst": "draconicevolution:wyvern_sword"
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_pick",
+        "catalyst": "draconicevolution:wyvern_pick"
+    },
+        {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_axe",
+        "catalyst": "draconicevolution:wyvern_axe"
+    },
+        {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_shovel",
+        "catalyst": "draconicevolution:wyvern_shovel"
+    },
+        {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_bow",
+        "catalyst": "draconicevolution:wyvern_bow"
+    },
+        {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_hoe",
+        "catalyst": "minecraft:diamond_hoe"
+    },
+        {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_staff_of_power",
+        "catalyst": "draconicevolution:wyvern_pick"
+    }
+    
+]
+        
