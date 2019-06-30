@@ -1,2 +1,0 @@
-//Full Signalum Cell Frame
-mods.extendedcrafting.CombinationCrafting.addRecipe(<thermalexpansion:frame:147>, 5000000, 500000, <thermalexpansion:frame:131>, [<ore:plateDenseTungsten>, <ore:nuggetMithril>, <ore:plateDenseTungsten>, <ore:plateDenseScarlite>, <ore:nuggetSupremium>, <ore:plateDenseScarlite>, <ore:plateDenseTungsten>, <ore:nuggetMithril>, <ore:plateDenseTungsten>, <ore:plateDenseScarlite>, <ore:nuggetSupremium>, <ore:plateDenseScarlite>]);

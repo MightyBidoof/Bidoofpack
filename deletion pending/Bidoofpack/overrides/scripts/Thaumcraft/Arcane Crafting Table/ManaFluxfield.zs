@@ -1,2 +1,0 @@
-//Mana Fluxfield
-mods.thaumcraft.ArcaneWorkbench.registerShapedRecipe("mana_fluxfield", "VISGENERATOR", 75, [<aspect:ignis> * 3, <aspect:ordo> * 3], <botania:rfgenerator>, [[<ore:livingrock>, <actuallyadditions:block_crystal>, <ore:livingrock>],[<actuallyadditions:block_crystal>, <thaumcraft:mechanism_complex>, <actuallyadditions:block_crystal>],[<ore:livingrock>, <actuallyadditions:block_crystal>, <ore:livingrock>]]);
